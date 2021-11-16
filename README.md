@@ -1,2 +1,2 @@
-# M1-apps-vaccinationreport
+# M1-apps-vaccinationRegistration
 Project on Vaccination Report
