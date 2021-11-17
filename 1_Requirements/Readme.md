@@ -21,3 +21,14 @@ Verification of the data is done based on the details provided by the patient. O
 * Cannot add large number of new registrations due to local server limitations.
 * Encryption is not enabled to protect the data.
 * OTP verification is not activated for new registrations.
+## 4 W's and 1 H
+### Who
+* Patient who needs to be vaccinated.
+### What
+* Verify the details of the patient using the alloted data.
+### When
+* During the time alloted for vaccination.
+### Where
+* Local vaccination centre.
+### How
+* Online registration and on field verification using local server.
