@@ -32,3 +32,17 @@ Verification of the data is done based on the details provided by the patient. O
 * Local vaccination centre.
 ### How
 * Online registration and on field verification using local server.
+## High Level Requirements
+* System should be able to access pre loaded registration data for verification 
+* User should be able to add new registrations 
+* System should recognize vaccinated patients 
+* OTP generated verification for secure registration  
+* System should recognize invalid credentials 
+* System should be updated with the time interval between two doses 
+
+## Low Level Requirement
+* Only new user must be given an option to select vaccine type 
+* Total quantity of vaccines used must be shown by EOD 
+* Full list of patients vaccinated must be set as output 
+* Remaining and present stock of vaccines must be tracked 
+* Vaccine vials must be tracked for its use within a day 
