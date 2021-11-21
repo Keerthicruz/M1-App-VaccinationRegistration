@@ -62,4 +62,20 @@ Verification of the data is done based on the details provided by the patient. O
 ![Flowchart1 (1)](https://github.com/MukeshkumarK/M1-App-VaccinationRegistration/blob/ef9dd5a28d19d1f2db96a102d4dc50edc8112ca8/2_Architecture/Flowchart.png)
 ## UML Use case
 ![Untitled Workspace (5)](https://github.com/MukeshkumarK/M1-App-VaccinationRegistration/blob/0a48f58692939a072afb7c875d7b99bfc7ec3026/2_Architecture/UML%20m1.png)
+# Implementation
+## Introduction
+This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
+
+## Instructions to execute
+1. Clone my repository
+2. Go to 3_Implementation folder
+3. Make sure your system meets all software and hardware requirements
+4. Run "make run" command in terminal for main code execution
+5. Run "make run_test" command in terminal for test code execution
+
+| Folder | Description |
+| --- | --- |
+| inc | Contains header files |
+| src | Contains additional source file for compilation |
+| test | Contains unit testing files |
 
