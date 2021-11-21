@@ -3,7 +3,7 @@
 
 int regist_status(long p){
 
-    // Checks for registration details of new patients    
+    // Checks for registration details of New patients    
     pd[0].aadhar=p;
     int i=1;
     while(i<=1000){
