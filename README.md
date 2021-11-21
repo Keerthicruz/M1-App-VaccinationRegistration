@@ -1,5 +1,5 @@
 # M1-apps-vaccinationRegistration
-# Project on Vaccination Report
+# Project on Vaccination Registration
 ## Aim
 * Easier vaccination registration process
 * Lesser data in the main server
