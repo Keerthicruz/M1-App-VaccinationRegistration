@@ -1,4 +1,4 @@
-# M1-apps-vaccinationRegistration
+# M1-apps-VaccinationRegistration
 # Project on Vaccination Registration
 ## Aim
 * Easier vaccination registration process
